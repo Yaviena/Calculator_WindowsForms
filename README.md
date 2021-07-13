@@ -10,4 +10,4 @@ Basic and practical functionality:
 
 Contains no adds or unnecessary permissions. It is fully opensource.
 
-![Calculator in Windows Forms](url)
+![Calculator in Windows Forms](/img/Calculator_by_Magda_Szafranska_(Yaviena).png)
